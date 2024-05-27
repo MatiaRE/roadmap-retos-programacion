@@ -1,0 +1,18 @@
+# la # se usa para cometario simples
+
+# https://www.python.org/ 
+# comentario de una linea
+
+
+
+""" las """ se usan para comentarios multiples"""
+
+""" esto tambien es
+un comentario entre
+lineas
+"""
+
+My_ variable = "Mi variable"
+My_ variable =  " nuevo valor variable"
+
+MY_CONSTANTE = "Mi constante" # por convencio
